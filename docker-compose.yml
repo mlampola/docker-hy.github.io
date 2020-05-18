@@ -1,7 +1,7 @@
 version: "3"
 services:
   coursematerial:
-    image: jakousa/docker-hy
+    image: mlampola/docker-hy
     ports:
       - 4000:80
     container_name: coursematerial
